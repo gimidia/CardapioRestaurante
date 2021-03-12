@@ -1,3 +1,3 @@
-# ui_cardapio_restaurante
+# CardapioRestaurante
 
 Projeto Cardápio Restaurante para estudo do UI Fluttter
